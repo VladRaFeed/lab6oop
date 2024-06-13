@@ -8,6 +8,7 @@ namespace lab6oop
 {
     class Transmission
     {
+
         private string transmissionType;
         private string differentialType;
         private bool differentialBlockStatus;

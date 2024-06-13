@@ -8,6 +8,7 @@ namespace lab6oop
 {
     class ControlPart
     {
+
         private string steeringType;
         private bool epsStatus;
 

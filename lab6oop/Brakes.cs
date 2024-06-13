@@ -8,6 +8,7 @@ namespace lab6oop
 {
     class Brakes
     {
+
         private string brakesType;
         private string brakeDiscCondition;
         private float brakeFluidLevel;

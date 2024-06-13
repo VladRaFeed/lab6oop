@@ -8,5 +8,6 @@ namespace lab6oop
 {
     class Peoples
     {
+
     }
 }

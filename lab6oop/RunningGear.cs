@@ -8,6 +8,7 @@ namespace lab6oop
 {
     class RunningGear
     {
+
         private string suspensionType;
         private int wheelSize;
         private string wheelType;

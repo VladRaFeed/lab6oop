@@ -8,6 +8,7 @@ namespace lab6oop
 {
     class SmartService
     {
+
         private string currentCarStatus;
         private bool carPlane;
         private bool carBoat;

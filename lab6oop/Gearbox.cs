@@ -8,6 +8,7 @@ namespace lab6oop
 {
     class Gearbox
     {
+
         private string gearboxType;
         private int gearCount;
         private float gearOilLevel;

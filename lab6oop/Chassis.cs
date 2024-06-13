@@ -8,6 +8,7 @@ namespace lab6oop
 {
     class Chassis
     {
+
         private Gearbox gearBox;
         private Brakes brakes;
         private Transmission transmission;
